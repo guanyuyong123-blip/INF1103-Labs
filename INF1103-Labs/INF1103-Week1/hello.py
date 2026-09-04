@@ -23,8 +23,8 @@ bio = "Fun Blogger"
 #print("Day 3:", followers)
 
 username = input("Enter Username: ")
-age = input("Enter Age: ")
-#age = int(input("Enter Age: "))
+#age = input("Enter Age: ")
+age = int(input("Enter Age: "))
 category = input("Enter Content Category: ")
 
 print("\nInstagram Profile")
@@ -33,7 +33,7 @@ print("Username:", username)
 print("Age:", age)
 print("Category:", category)
 
-#if age>40 and category == "fun":
-    #print("you are old what if fun for you??")
+if age>40 and category == "fun":
+    print("you are old what if fun for you??")
 
     
