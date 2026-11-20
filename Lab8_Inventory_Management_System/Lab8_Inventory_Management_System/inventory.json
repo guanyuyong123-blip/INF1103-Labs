@@ -1,0 +1,15 @@
+[
+    {
+        "product_id": "1002",
+        "name": "Testing Item Product",
+        "price": 1999.0,
+        "stock_quantity": 42,
+        "supplier": {
+            "supplier_id": "1004",
+            "name": "Wholesale Test",
+            "contact_email": "wholesaletest@gmail.com"
+        },
+        "product_type": "physical",
+        "weight": 20.0
+    }
+]
